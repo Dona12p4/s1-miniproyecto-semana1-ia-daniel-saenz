@@ -147,3 +147,33 @@ Esta bitacora tambien fue organizada con apoyo de IA generativa a partir de la c
 **Verificacion realizada:** se valido el notebook como JSON y se ejecuto con `nbconvert` antes de completar los checks.
 
 **Alcance de esta entrada:** se registra el apoyo puntual para verificar y completar el checklist. Las demas secciones del notebook quedaron fuera del alcance de esta interaccion.
+
+## 2026-06-15
+
+**Herramienta usada:** Codex / ChatGPT.
+
+**Objetivo:** elaborar el archivo `README.txt` de la entrega.
+
+**Situacion consultada:** el estudiante pidio dejar clara la organizacion de la carpeta del miniproyecto y la forma de abrir el notebook en otro computador.
+
+**Apoyo recibido:** la IA ayudo a redactar un `README.txt` breve con la estructura del proyecto, la ubicacion del dataset, la ruta del notebook, la ubicacion de la bitacora y las instrucciones basicas de ejecucion.
+
+**Resultado obtenido:** el `README.txt` explica que la entrega contiene `data/`, `notebooks/`, `docs/` y `README.txt`, y aclara que el notebook puede ejecutarse desde otra ubicacion si se conserva la carpeta completa.
+
+**Alcance de esta entrada:** se registra apoyo documental para el README. No se modifico el contenido analitico del notebook durante esta interaccion.
+
+## 2026-06-15
+
+**Herramienta usada:** Codex / ChatGPT.
+
+**Objetivo:** crear y publicar el repositorio de GitHub del miniproyecto.
+
+**Situacion consultada:** el estudiante pidio apoyo para colocar la carpeta del miniproyecto en GitHub y dejar el repositorio visible para el profesor.
+
+**Apoyo recibido:** la IA inicializo Git en la carpeta del proyecto, agrego los archivos de entrega, creo un commit inicial y subio el proyecto a GitHub. Luego cambio la visibilidad del repositorio de privado a publico para que el profesor pudiera acceder al enlace.
+
+**Resultado obtenido:** el repositorio quedo publicado en GitHub con la estructura de entrega: `data/`, `notebooks/`, `docs/` y `README.txt`.
+
+**Verificacion realizada:** se verifico el estado local de Git, el remoto `origin` y la visibilidad publica del repositorio en GitHub.
+
+**Alcance de esta entrada:** se registra apoyo para crear y publicar el repositorio. No se modifico el contenido del notebook durante esta interaccion.
